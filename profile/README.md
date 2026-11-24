@@ -16,7 +16,7 @@
   <a href="https://frontmcp.dev">FrontMCP docs</a> ·
   <a href="https://docs.agentfront.dev">Enclave &amp; VectoriaDB docs</a> ·
   <a href="https://discord.gg/53AHnJnmwR">Discord</a> ·
-  <a href="mailto:info@agentfront.dev">info@agentfront.dev</a>
+  <a href="mailto:david@frontegg.com">david@frontegg.com</a>
 </p>
 
 ---
@@ -139,5 +139,5 @@ If one of these projects saves you time, a star helps other developers find it.
   <a href="https://frontmcp.dev">frontmcp.dev</a> ·
   <a href="https://docs.agentfront.dev">docs.agentfront.dev</a> ·
   <a href="https://discord.gg/53AHnJnmwR">Discord</a> ·
-  <a href="mailto:info@agentfront.dev">info@agentfront.dev</a>
+  <a href="mailto:david@frontegg.com">david@frontegg.com</a>
 </p>
